@@ -1,0 +1,3 @@
+= GH Pages Example
+
+repo using asciidoc + actions to generate a github pages site.
