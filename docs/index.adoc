@@ -1,1 +1,16 @@
 = Hello
+:source-highlighter: highlightjs
+
+
+
+This is a test.
+
+I added text to this file and committed it to verify the build.
+
+[source,java]
+----
+// Here
+public void have_some_java() {
+    // code
+}
+----
